@@ -1,4 +1,4 @@
-## Hi! I'm Alice
+## Hi! I'm Alice ^-^
 
 ### I'm C++ developer and 3D Generalist
 
