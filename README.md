@@ -28,9 +28,3 @@ I study at the Faculty of Applied Mathematics and Informatics at NSTU. Welcome t
     <img align="center" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/2048px-VK.com-logo.svg.png" width="50px" />
   </a>
   &nbsp;&nbsp;
- 
-    <a href="mailto:va.a_lisa_mironenko@mail.ru" target="_blank" >
-    <img align="center" style="margin-right:15px" src="https://grow-store.ru/images/mail_grow_store.png" width="50px" />
-  </a>
-  &nbsp;&nbsp;
-</p>
