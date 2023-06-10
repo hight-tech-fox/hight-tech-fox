@@ -11,7 +11,7 @@ I study at the Faculty of Applied Mathematics and Informatics at NSTU. Welcome t
 
 <img align="left" alt="Blend" width="72px" style="margin-right:15px" src="https://i.pinimg.com/originals/7a/9c/76/7a9c7615d60e69b14db4711efeca98ed.png" />
 
-<img align="left" alt="Python" width="72px" style="margin-right:15px" src="https://bobtutor.org/storage/uploads/1615836092-python.png" />
+<img align="left" alt="Python" width="72px" style="margin-right:15px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--9qNr5aQH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9ji804jwx89qkzp306qg.png" />
 
 <br />
 <br />
